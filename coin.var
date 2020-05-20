@@ -1,4 +1,4 @@
-name="nextcoin"
-symbol="next"
-daemon="nextd"
-cli="next-cli"﻿
+name="bitcoinrhodium"
+symbol="xrc"
+daemon="brhodium"
+cli="brhodium"﻿
