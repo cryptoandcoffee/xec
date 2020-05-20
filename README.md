@@ -1,2 +1,2 @@
-# next
-next chain sha256
+# xrc
+brhodium
