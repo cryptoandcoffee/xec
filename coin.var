@@ -1,4 +1,4 @@
-name="bitcoinrhodium"
-symbol="xrc"
-daemon="brhodium"
-cli="brhodium-cli"﻿
+name="unobtanium"
+symbol="uno"
+daemon="unobtaniumd"
+cli="unobtanium-cli"
