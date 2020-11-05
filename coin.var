@@ -1,4 +1,4 @@
-name="unobtanium"
-symbol="uno"
-daemon="unobtaniumd"
-cli="unobtanium-cli"
+name="bitcoincash"
+symbol="bch"
+daemon="bitcoind"
+cli="bitcoin-cli"
