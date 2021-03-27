@@ -1,4 +1,4 @@
 name="bitcoincash"
-symbol="bch"
+symbol="bcha"
 daemon="bitcoind"
 cli="bitcoin-cli"
