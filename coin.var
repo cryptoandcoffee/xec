@@ -1,4 +1,4 @@
-name="bitcoincash"
-symbol="bcha"
-daemon="bitcoind"
-cli="bitcoin-cli"
+name="devault"
+symbol="dvt"
+daemon="devaultd"
+cli="devault-cli"
