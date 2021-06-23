@@ -1,4 +1,4 @@
-name="devault"
-symbol="dvt"
-daemon="devaultd"
-cli="devault-cli"
+name="long"
+symbol="long"
+daemon="longcoind"
+cli="longcoin-cli"
