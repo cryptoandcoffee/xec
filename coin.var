@@ -1,4 +1,4 @@
-name="long"
-symbol="long"
-daemon="longcoind"
-cli="longcoin-cli"
+name="ecash"
+symbol="xec"
+daemon="bitcoind"
+cli="bitcoin-cli"
